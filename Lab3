@@ -1,0 +1,15 @@
+run:
+Podaj dolny zakres przedzia³u
+2
+Podaj górny zakres przedzia³u
+10
+Tablica
+5 2 3 6 7 3 4 8 10 2 
+Wyniki
+50
+5.0
+2
+10
+8
+Tablica
+0 0 0 0 0 0 0 0 0 0 BUILD SUCCESSFUL (total time: 17 seconds)
